@@ -1,2 +1,2 @@
-# -nkuliappdev
+# nkuliappdev
 Portfolio website built using React.js
